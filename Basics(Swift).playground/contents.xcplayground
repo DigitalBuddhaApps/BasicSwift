@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='01. SwiftBasics'/>
+        <page name='02. BasicTypes'/>
+        <page name='03. Variables'/>
+        <page name='04. Operators'/>
+        <page name='05. Functions'/>
+        <page name='06. Optionals'/>
+        <page name='07. Tuples'/>
+        <page name='08. ObjectOrientedProgramming'/>
+        <page name='09. Structs'/>
+        <page name='10. Enums'/>
+        <page name='11. Classes'/>
+        <page name='12. AccessControl'/>
+        <page name='13. Arrays&amp;Sets'/>
+        <page name='14. Dictionaries'/>
+        <page name='15. ForLoops'/>
+        <page name='16. Filter,Sort,Map'/>
+        <page name='17. Protocols'/>
+    </pages>
+</playground>
